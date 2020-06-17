@@ -11,6 +11,10 @@ def join_nested_strings(src)
    end
       row_index += 1
  end
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2aa1e0ecac24e0c9d97c3f4da4d654d3244a174d
       string_sentence.join(" ")
 end
  
